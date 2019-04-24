@@ -1,0 +1,11 @@
+{
+  "name": "Postepay",
+  "country": "it",
+  "localTitle": "Postepay",
+  "engTitle": "Postepay",
+  "url": "https://securelogin.bp.poste.it/",
+  "color": "#383838",
+  "prefixes": [
+    533317
+  ]
+}
