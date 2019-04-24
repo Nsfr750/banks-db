@@ -1,0 +1,11 @@
+{
+  "name": "Trenitalia",
+  "country": "it",
+  "localTitle": "CartaFreccia",
+  "engTitle": "CartaFreccia",
+  "url": "https://www.lefrecce.it/",
+  "color": "#383838",
+  "prefixes": [
+    533004
+  ]
+}
